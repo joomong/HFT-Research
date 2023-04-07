@@ -9,4 +9,3 @@ The project includes implementations for the following three scenarios:
 
 The full source code is written in C++ and is not open source due to its application for real market making purposes.
 
-Thank you for checking out our project! If you have any questions or feedback, please don't hesitate to contact us.
